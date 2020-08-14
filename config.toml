@@ -1,4 +1,57 @@
-baseURL = "http://example.org/"
+baseURL = "https://donsfooty.com"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "donsfooty"
 theme = "ezhil"
+copyright = "donsfooty"
+#disqusShortname = "XXX"
+#googleAnalytics = "XXX"
+
+[Author]
+    name = "donsfooty"
+  #  profile = "https://google.com/+XXX"
+
+[Taxonomies]
+    tag = "tags"
+
+[Params]
+    intro = true
+    headline = "donsfooty"
+    description = "Unoffical analysis of the Essendon Football Club"
+    github = "https://github.com/donsfooty/"
+    #gitlab = "https://gitlab.com/XXX"
+    #linkedin = "https://linkedin.com/in/XXX/"
+    #gplus = "https://google.com/+XXX"
+    #twitter = "https://twitter.com/donsfooty"
+    #stackoverflow = "https://stackoverflow.com/users/XXX/YYY"
+    email = "donsfooty@gmail.com"
+    opengraph = true
+    shareTwitter = true
+    shareFacebook = true
+    #shareGooglePlus = true
+    #shareLinkedIn = false
+    dateFormat = "Mon, Jan 2, 2006"
+    highlightJsUrl = ""
+    highlightJsLocalUrl = ""
+
+[Permalinks]
+    post = "/:year/:month/:day/:filename/"
+
+[[menu.main]]
+    name = "Season 2020"
+    url = "/Season 2020/"
+    weight = 1
+
+[[menu.main]]
+    name = "Past Seasons"
+    url = "/Past Seasons/"
+    weight = 2
+[[menu.main]]
+
+    name = "Fantasy"
+    url = "/Fantasy/"
+    weight = 3
+    
+[[menu.main]]
+    name = "About"
+    url = "/About/"
+    weight = 4  
