@@ -55,3 +55,8 @@ copyright = "donsfooty"
     name = "About"
     url = "/About/"
     weight = 4  
+
+[[menu.main]]
+    name = "Test Posts"
+    url = "/content/post/test-post.md"
+    weight = 5  
