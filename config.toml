@@ -1,7 +1,7 @@
 baseURL = "https://donsfooty.com"
 languageCode = "en-us"
 title = "donsfooty"
-theme = "ezhil"
+theme = "themes/ezhil"
 copyright = "donsfooty"
 #disqusShortname = "XXX"
 #googleAnalytics = "XXX"
