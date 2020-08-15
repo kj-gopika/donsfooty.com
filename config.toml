@@ -1,7 +1,7 @@
 baseURL = "http://donsfooty.netlify.app/"
 languageCode = "en-us"
 title = "dons footy"
-theme = "ezhil"
+theme = "Ezhil"
 
 copyright = "© Copyright notice"
 
