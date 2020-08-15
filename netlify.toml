@@ -2,6 +2,15 @@
 publish = "public"
 command = "hugo --gc --minify"
 
+[build]
+	publish = "donsfooty.com/public"
+	command = "cd donsfooty && hugo --gc --themesDir ../.."
+
+[build.environment]
+	HUGO_VERSION = "0.51"
+  	HUGO_THEME = "repo"
+	HUGO_BASEURL = "/"
+
 [context.production.environment]
 HUGO_VERSION = "0.74.3"
 HUGO_ENV = "production"
