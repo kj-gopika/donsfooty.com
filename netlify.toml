@@ -1,6 +1,6 @@
 [build]
-	publish = "donsfooty.com/public"
-	command = "cd donsfooty.com && hugo --gc --themesDir ../.."
+publish = "public"
+command = "hugo"
 
 [context.production.environment]
 HUGO_VERSION = "0.74.3"
@@ -13,8 +13,6 @@ command = "hugo --gc --minify --enableGitInfo"
 [context.split1.environment]
 HUGO_VERSION = "0.74.3"
 HUGO_ENV = "production"
-HUGO_THEME = "ezhil"
-HUGO_BASEURL = "/"
 
 [context.deploy-preview]
 command = "hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL"
