@@ -1,7 +1,7 @@
 baseURL = "http://donsfooty.netlify.app/"
 languageCode = "en-us"
 title = "dons footy"
-theme = "Ezhil"
+theme = "ezhil"
 
 copyright = "© Copyright notice"
 
@@ -23,7 +23,7 @@ summaryLength = 20
 
 [params]
     # Blog subtitle which appears below blog title. Supports markdown.
-    subtitle = "Unofficial analysis of the Essendon Football Club"
+    subtitle = "This is the site of donsfooty"
 
     # Content types which are included in home page recent posts list.
     mainSections = ["posts"]
