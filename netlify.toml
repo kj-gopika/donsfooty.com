@@ -1,6 +1,6 @@
 [build] 
-  publish = "dist"
-  command = "npm run build"
+  publish = "public"
+  command = "dist"
 
 [context.production.environment]
   HUGO_VERSION = "0.74.3" # if older, use format: 0.53 (no trailing zero)
