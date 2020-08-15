@@ -58,5 +58,5 @@ copyright = "donsfooty"
 
 [[menu.main]]
     name = "Test Posts"
-    url = "/content/post/test-post.md"
+    url = "/content/posts/test-post.md"
     weight = 5  
