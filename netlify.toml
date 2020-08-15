@@ -1,6 +1,6 @@
 [build]
 	publish = "donsfooty.com/public"
-	command = "cd donsfooty && hugo --gc --themesDir ../.."
+	command = "cd donsfooty.com && hugo --gc --themesDir ../.."
 
 [context.production.environment]
 HUGO_VERSION = "0.74.3"
