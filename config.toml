@@ -60,14 +60,19 @@ url = "/"
 weight = 1
 
 [[menu.main]]
-name = "All posts"
-url = "/posts"
+name = "Season 2020"
+url = ""
 weight = 2
 
 [[menu.main]]
-name = "About"
-url = "/about"
+name = "Archives"
+url = "/post"
 weight = 3
+
+[[menu.main]]
+name = "About"
+url = ""
+weight = 4
 
 
 # Social media links which shows up on site header.

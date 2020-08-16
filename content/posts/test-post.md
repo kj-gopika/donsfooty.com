@@ -1,6 +1,6 @@
 ---
-title: "Test Post"
-date: 2020-08-14T16:37:38+10:00
+title: "Coming soon - dons footy analysis"
+date: 2020-08-14
 draft: false
 ---
 
