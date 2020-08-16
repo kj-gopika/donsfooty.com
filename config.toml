@@ -1,4 +1,4 @@
-baseURL = "http://donsfooty.netlify.app/"
+baseURL = "https://donsfooty.netlify.app/"
 languageCode = "en-us"
 title = "dons footy"
 theme = "ezhil"
