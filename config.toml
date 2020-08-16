@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "dons footy"
 theme = "ezhil"
 
-copyright = "© Copyright notice"
+copyright = "© donsfooty"
 
 # Enable syntax highlighting.
 pygmentsstyle = "solarized-dark"
@@ -11,9 +11,9 @@ pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
 # Your Google analytics code.
-googleAnalytics = "UA-123-45"
+# googleAnalytics = "UA-123-45"
 # Your Disqus sortname.
-disqusShortname = "localhost"
+# disqusShortname = "localhost"
 
 # Number of posts to show in recent posts list (Optional). Defaults to 10.
 paginate = 10
@@ -23,7 +23,7 @@ summaryLength = 20
 
 [params]
     # Blog subtitle which appears below blog title. Supports markdown.
-    subtitle = "This is the site of donsfooty"
+    subtitle = "Unofficial analysis of the Essendon Football Club"
 
     # Content types which are included in home page recent posts list.
     mainSections = ["posts"]
@@ -69,10 +69,6 @@ name = "About"
 url = "/about"
 weight = 3
 
-[[menu.main]]
-name = "Tags"
-url = "/tags"
-weight = 4
 
 # Social media links which shows up on site header.
 # Uses feather icons for icons. You can [search icon names from here](https://feathericons.com/).
