@@ -83,9 +83,9 @@ icon = "github"
 url = "https://github.com/donsfooty"
 
 [[params.social]]
-# name = "Twitter"
-# icon = "twitter"
-# url = "https://twitter.com/gohugoio"
+name = "Twitter"
+icon = "twitter"
+url = "https://twitter.com/donsfooty"
 
 # Enable tags.
 [taxonomies]
