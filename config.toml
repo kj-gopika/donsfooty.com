@@ -65,14 +65,19 @@ url = ""
 weight = 2
 
 [[menu.main]]
-name = "Archives"
-url = "/post"
+name = "Fantasy"
+url = ""
 weight = 3
+
+[[menu.main]]
+name = "Archives"
+url = ""
+weight = 4
 
 [[menu.main]]
 name = "About"
 url = ""
-weight = 4
+weight = 5
 
 
 # Social media links which shows up on site header.
