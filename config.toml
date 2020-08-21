@@ -55,7 +55,7 @@ summaryLength = 20
 
 # Main menu which appears below site header.
 [[menu.main]]
-name = "Home"
+name = "Latest"
 url = "/"
 weight = 1
 
