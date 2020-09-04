@@ -65,27 +65,27 @@ url = ""
 weight = 2
 
 [[menu.main]]
-name = "Fantasy"
+name = "Archives"
 url = ""
 weight = 3
 
 [[menu.main]]
-name = "Archives"
+name = "Fun Stuff"
 url = ""
 weight = 4
 
 [[menu.main]]
 name = "About"
-url = ""
+url = "/pages/about"
 weight = 5
 
 
 # Social media links which shows up on site header.
 # Uses feather icons for icons. You can [search icon names from here](https://feathericons.com/).
 [[params.social]]
-name = "Github"
-icon = "github"
-url = "https://github.com/donsfooty"
+name = "Email"
+icon = "at-sign"
+url = "mailto:donsfooty@gmail.com"
 
 [[params.social]]
 name = "Twitter"
